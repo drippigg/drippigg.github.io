@@ -11,4 +11,4 @@ navigation:
   - title: "Documentation"
     url: "/documentation/nixos-digitalocean/"
   - title: "Contributing"
-    url: "/contributing/contributing"
+    url: "/contributing/contribution"
