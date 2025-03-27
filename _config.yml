@@ -1,5 +1,5 @@
 title: DrippiGG Documentation
-theme: jekyll-theme-cayman
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
