@@ -1,6 +1,8 @@
 ```markdown
 # 🚀 Deploying a Custom NixOS Image on DigitalOcean
 
+- [Home](/)
+
 ## 📌 Step 1: Create a DigitalOcean VM
 1. Log into [DigitalOcean](https://cloud.digitalocean.com/)
 2. Navigate to **Droplets** → **Create Droplet**
