@@ -1,5 +1,7 @@
 # Contributing to DrippiGG
 
+- [Home](/)
+
 We’re excited that you want to contribute! Follow the steps below to get started:
 
 ## Steps to Contribute
