@@ -1,5 +1,14 @@
 # DrippiGG
 
+# Navigation
+
+- [Home](/)
+- [Contributing](/contributing/contributing)
+
+### Documentation!
+- [NixOS on DigitalOcean](/documentation/nixos-digitalocean)
+
+
 **DrippiGG** is an organization and community focused on sharing developer tools for up-and-coming software developers, especially those looking to build their portfolios with "shipped titles." Our philosophy revolves around community, learning modern tools and technologies, and empowering developers to grow together.
 
 ## Our Core Beliefs
