@@ -1,0 +1,15 @@
+title: DrippiGG Documentation
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Optional: If you want to add a custom navigation menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Documentation"
+    url: "/documentation/"
+  - title: "Contributing"
+    url: "/CONTRIBUTING/"
