@@ -1,5 +1,5 @@
-```markdown
-[ReturnHome](/)
+
+[Return Home](/)
 # 🚀 Deploying a Custom NixOS Image on DigitalOcean
 
 
@@ -86,6 +86,7 @@ s3cmd put nixos.img.gz s3://your-space-name/
 
 ## ✅ BOOOYAH! NixOS is now running on DigitalOcean! 🚀
 
-[ReturnHome](/)
-```
+
+[Return Home](/)
+
 
