@@ -5,11 +5,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-# Optional: If you want to add a custom navigation menu
 navigation:
   - title: "Home"
     url: "/"
   - title: "Documentation"
-    url: "/documentation/"
+    url: "/documentation/nixos-digitalocean/"
   - title: "Contributing"
-    url: "/CONTRIBUTING/"
+    url: "/contributing/"
