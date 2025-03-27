@@ -1,5 +1,3 @@
-# DrippiGG
-
 # Navigation
 
 - [Home](/)
