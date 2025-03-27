@@ -1,4 +1,6 @@
-# Navigation
+# DRIPPIGG 🔥🐦‍🔥❤️‍🔥
+
+## Navigation
 
 - [Home](/)
 - [Contributing](/contributing/contribution)
