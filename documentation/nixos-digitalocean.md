@@ -1,7 +1,7 @@
 ```markdown
+[ReturnHome](/)
 # 🚀 Deploying a Custom NixOS Image on DigitalOcean
 
-- [Home](/)
 
 ## 📌 Step 1: Create a DigitalOcean VM
 1. Log into [DigitalOcean](https://cloud.digitalocean.com/)
@@ -77,11 +77,15 @@ s3cmd put nixos.img.gz s3://your-space-name/
 
 ## 🎉 Step 6: Deploy Your NixOS Droplet!
 1. Go to **Droplets** → **Create Droplet**
-2. Select **Custom Images**
-3. Choose your **NixOS image**
-4. Set up networking & SSH
-5. Click **Create**
+
+
+3. Select **Custom Images**
+4. Choose your **NixOS image**
+5. Set up networking & SSH
+6. Click **Create**
 
 ## ✅ BOOOYAH! NixOS is now running on DigitalOcean! 🚀
+
+[ReturnHome](/)
 ```
 

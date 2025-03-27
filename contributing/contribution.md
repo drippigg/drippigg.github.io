@@ -1,6 +1,6 @@
+[ReturnHome](/)
 # Contributing to DrippiGG
 
-- [Home](/)
 
 We’re excited that you want to contribute! Follow the steps below to get started:
 
@@ -39,3 +39,5 @@ If you have any questions about contributing or need help getting started, feel 
 ---
 
 Thank you for your interest in DrippiGG! Your contributions make a huge difference.
+
+[ReturnHome](/)

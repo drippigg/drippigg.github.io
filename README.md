@@ -33,6 +33,7 @@
 - **Go**: Our backend and distribution tools are often powered by Go, due to its efficiency and speed, especially when dealing with game distribution.
 - **GitHub**: We host our repositories and collaborate with the community through GitHub.
 - **Discord**: Our community lives on Discord, where developers can chat, collaborate, and grow together. Join us [here - coming soon!]().
+- **Various Frontends**: We love all sorts of technologies for client-side - from Kotlin to React! But we have a really soft spot for godot ❤️.
 
 ## Documentation
 
@@ -59,7 +60,7 @@ Yes! The MIT License allows you to use, modify, and distribute the software, eve
 
 ## Contributing
 
-We welcome contributions! To get started, please refer to our [Contributing Guide](CONTRIBUTING.md) for more information on how to submit issues, suggest features, or contribute code.
+We welcome contributions! To get started, please refer to our [Contributing Guide](/contributing/contribution) for more information on how to submit issues, suggest features, or contribute code.
 
 ## Contact
 
