@@ -3,7 +3,7 @@
 # Navigation
 
 - [Home](/)
-- [Contributing](/contributing/contributing)
+- [Contributing](/contributing/contribution)
 
 ### Documentation!
 - [NixOS on DigitalOcean](/documentation/nixos-digitalocean)
