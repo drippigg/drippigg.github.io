@@ -1,3 +1,4 @@
+[Return Home](/)
 # 🐍 Lua Notes
 
 ## ⚙️ Mechanisms > Policies
