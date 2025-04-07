@@ -34,7 +34,7 @@
 - **Lua**: Lightweight, embeddable, and fast — we use Lua for scripting in games and tools where flexibility and runtime control are key.
 - **GitHub**: We host our repositories and collaborate with the community through GitHub.
 - **Discord**: Our community lives on Discord, where developers can chat, collaborate, and grow together. Join us [here - coming soon!]().
-- **Various Frontends**: We love all sorts of technologies for client-side - from Kotlin to React! But we have a really soft spot for godot ❤️.
+- **Various Frontends**: We love all sorts of technologies for client-side - from Kotlin, Unity, godot to React! But we have a really soft spot for defold ❤️.
 
 ## Documentation
 
