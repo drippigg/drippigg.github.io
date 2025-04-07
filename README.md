@@ -30,8 +30,8 @@
 ## Our Stack
 
 - **DigitalOcean**: Cost-effective, simple cloud infrastructure that we use for hosting our services.
-- **Docker**: We leverage Docker for containerization, which helps us build, ship, and run applications seamlessly.
 - **Go**: Our backend and distribution tools are often powered by Go, due to its efficiency and speed, especially when dealing with game distribution.
+- **Lua**: Lightweight, embeddable, and fast — we use Lua for scripting in games and tools where flexibility and runtime control are key.
 - **GitHub**: We host our repositories and collaborate with the community through GitHub.
 - **Discord**: Our community lives on Discord, where developers can chat, collaborate, and grow together. Join us [here - coming soon!]().
 - **Various Frontends**: We love all sorts of technologies for client-side - from Kotlin to React! But we have a really soft spot for godot ❤️.
